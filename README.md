@@ -2,7 +2,6 @@
 
 🌍 I'm a front-end development engineer with experience in large-scale e-commerce projects, blockchain development and open source full-stack internationalisation projects.
 
-
 ## 📈 Home page visits
 ![Visitor Count](https://profile-counter.glitch.me/durunsong/count.svg)
 ---
@@ -13,7 +12,6 @@
 - **Frameworks:** Vue, React, Uniapp,Moralis
 - **Development Tools:** Vercel, Node.js, VSCode, HBuilderX
 - **Project Experience:** SASS to C and B project, cross-border e-commerce,Blockchain obligations
-
 ---
 
 ## 🏆 GitHub Stats
@@ -23,8 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durunsong&layout=compact&bg_color=#18a1e8&theme=radical" alt="Top Languages" height="180em" />
 </div>
 
-
-
 ## 🚀 Projects
 
 ### 🔹 [Internationalization Full-Stack Project](https://github.com/durunsong/kilyicms)
@@ -32,7 +28,6 @@ An open-source full-stack project focused on seamless internationalization, buil
 
 ### 🔹 [E-commerce Platform](https://github.com/durunsong/kilyimall)
 A large-scale cross-border e-commerce platform, featuring a user-friendly design, fast loading, and optimized for mobile devices.
-
 ---
 
 ## 🌐 Connect with Me
@@ -44,7 +39,6 @@ A large-scale cross-border e-commerce platform, featuring a user-friendly design
 
 - [**vue3+element-plus+vue-i18n internationalisation case study**](https://blog.csdn.net/m0_73328686/article/details/143163176)
 - [**JavaScript programme for automated translation**](https://blog.csdn.net/m0_73328686/article/details/143163009)
-
 ---
 
 Thanks for visiting! Feel free to reach out or check out my work 😊
