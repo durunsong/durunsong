@@ -2,7 +2,9 @@
 
 🌍 I'm a front-end development engineer with experience in large-scale e-commerce projects, blockchain development and open source full-stack internationalisation projects.
 
-![Profile views](https://komarev.com/ghpvc/?username=durunsong&color=blue) 
+
+## 📈 Home page visits
+![Visitor Count](https://profile-counter.glitch.me/durunsong/count.svg)
 ---
 
 ## 🛠 Technologies & Tools
