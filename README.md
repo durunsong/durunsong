@@ -7,7 +7,7 @@
 
 ## 🛠 Technologies & Tools
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript,NodeJS,golang
+- **Languages:** HTML, CSS, JavaScript, TypeScript,NodeJS,Golang
 - **Frameworks:** Vue, React, Uniapp,Moralis
 - **Development Tools:** Vercel, Node.js, VSCode, HBuilderX
 - **Project Experience:** SASS to C and B project, cross-border e-commerce,Blockchain obligations
