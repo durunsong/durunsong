@@ -25,7 +25,9 @@ TranslationTools is a React application for automated translation based on the B
 [Link to project](https://github.com/durunsong/TranslationTools)
 
 ## 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:durunsongs@gmail.com)
+WeChat：DU2603948701
+
+Email：durunsongs@gmail.com
 
 ---
 
@@ -36,5 +38,3 @@ TranslationTools is a React application for automated translation based on the B
 ---
 
 Thanks for visiting! Feel free to reach out or check out my work 😊
-
-<img src="./images/long5.gif?raw=true" width = "150" align=center /><img src="./images/long6.gif?raw=true" width = "150" align=center /><img src="./images/long7.gif?raw=true" width = "150" align=center /><img src="./images/long8.gif?raw=true" width = "150" align=center /><img src="./images/long9.gif?raw=true" width = "150" align=center />
