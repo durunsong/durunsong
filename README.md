@@ -7,7 +7,7 @@
 ## 🛠 Technologies & Tools
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript, NodeJS
-- **Frameworks:** Jquery, Vue, React, Uniapp, Moralis
+- **Frameworks:** NextJS, NuxtJS, Jquery, Vue, React, Uniapp, Moralis
 - **Development Tools:** Vercel, Vitepress, VSCode, HBuilderX, Cursor
 - **Project Experience:** SASS to C and B project, cross-border e-commerce
 - **Comprehensive Database:** PostgreSQL, MySQL
