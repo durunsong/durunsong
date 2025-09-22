@@ -1,26 +1,45 @@
 # Hello, I’m Jack-DU 👋
 
-## 🛠 Tech Stack
+# 💡skill
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, NodeJS  
-- **Frontend Frameworks:** NextJS, NuxtJS, jQuery, Vue, React, Uniapp, Moralis  
-- **Development Tools:** Vercel, Vitepress, VSCode, HBuilderX, Cursor  
-- **Databases & Caching:** PostgreSQL, MySQL, Redis  
-- **Project Experience:** SASS to C/B project, Cross-border E-commerce  
+### 前端
 
-## 🚀 Projects
+<div style='display:flex'>
+    <img width='50' height='50' title='javaScript' style='margin-left:15px;' src='skill/js.png' />
+    <img width='50' height='50' title='typeScript' style='margin-left:15px;' src='skill/ts.png' />
+    <img width='50' height='50' title='html5' style='margin-left:15px;' src='skill/h5.png' />
+    <img width='50' height='50' title='css3' style='margin-left:15px;' src='skill/css3.png' />
+    <img width='70' height='50' title='less' style='margin-left:15px;' src='skill/less.png' />
+    <img width='50' height='50' title='webpack' style='margin-left:15px;' src='skill/webpack.png' />
+    <img width='50' height='50' title='rollup' style='margin-left:15px;' src='skill/rollup.png' />
+    <img width='50' height='50' title='vite' style='margin-left:15px;' src='skill/vite.png' />
+    <img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/vue.png' />
+    <img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/uni.png' />
+    <img width='40' height='50' title='pinia' style='margin-left:15px;' src='skill/pinia.png' />
+    <img width='50' height='50' title='postCss' style='margin-left:15px;' src='skill/postCss.png' />
+    <img width='50' height='50' title='electron' style='margin-left:15px;' src='skill/electron.png' />
+    <img width='50' height='50' title='tailwind' style='margin-left:15px;' src='skill/tailwind.png' />
+    <img width='50' height='50' title='git' style='margin-left:15px;' src='skill/git.png' />
+</div>
 
-### 🔹 [Full-stack Server-side Rendering Project](https://github.com/durunsong/next-neon-base)  
-A full-stack SSR project built with Next15, Neon PostgreSQL, TypeScript, Prisma ORM, Redis, Tailwind CSS, Zustand, Antd, ECharts, tawk, and Alibaba Cloud OSS.  
-[Project Link](https://github.com/durunsong/next-neon-base)
+### 后端
 
-### 🔹 [Internationalization Full-stack Project](https://github.com/durunsong/kilyicms)  
-An open-source full-stack project focused on seamless internationalization, built with Vue3, Node.js, Express, MySQL / PostgreSQL, and Redis.  
-[Project Link](https://github.com/durunsong/kilyicms)
+<div style='display:flex'>
+    <img width='50' height='50' title='npm' style='margin-left:15px;' src='skill/npm.png' />
+    <img width='50' height='50' title='nodejs' style='margin-left:15px;' src='skill/nodejs.png' />
+    <img width='50' height='50' title='nodejs' style='margin-left:15px;' src='skill/nextjs.png' />
+    <img width='50' height='50' title='nodejs' style='margin-left:15px;' src='skill/nuxtjs.png' />
+    <img width='50' height='50' title='express' style='margin-left:15px;' src='skill/express.png' />
+    <img width='70' height='50' title='nest' style='margin-left:15px;' src='skill/nest.jpg' />
+    <img width='50' height='50' title='mysql' style='margin-left:15px;' src='skill/mysql.png' />
+</div>
 
-### 🔹 [Auto Translation Tool](https://github.com/durunsong/TranslationTools)  
-A React-based automatic translation tool using Baidu Translate API, supporting both text and JSON content translation.  
-[Project Link](https://github.com/durunsong/TranslationTools)
+### 运维端
+<div style='display:flex'>
+    <img width='70' height='50' title='nginx' style='margin-left:15px;' src='skill/nginx.png' />
+    <img width='90' height='40' title='linux' style='margin-left:15px;' src='skill/linux.png' />
+    <img width='70' height='50' title='docker' style='margin-left:15px;' src='skill/docker.png' />
+</div>
 
 ## 🌐 Contact
 
